@@ -1,6 +1,6 @@
 {
   "name": "react-render-to-string-async",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Non-blocking asynchronous alternative to `React.renderToString` and `React.renderToStaticMarkup`.",
   "main": "./src/index.js",
   "license": "MIT",
