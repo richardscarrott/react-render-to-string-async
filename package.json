@@ -3,8 +3,10 @@
   "version": "0.0.2",
   "description": "Non-blocking asynchronous alternative to `React.renderToString` and `React.renderToStaticMarkup`.",
   "main": "./src/index.js",
+  "types": "./src/index.d.ts",
   "license": "MIT",
   "peerDependencies": {
+    "@types/react": "^16.9.41",
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
